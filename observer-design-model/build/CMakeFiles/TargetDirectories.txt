@@ -1,0 +1,3 @@
+/home/uubs/Data/CeleryStalk/observer-design-model/build/CMakeFiles/rebuild_cache.dir
+/home/uubs/Data/CeleryStalk/observer-design-model/build/CMakeFiles/edit_cache.dir
+/home/uubs/Data/CeleryStalk/observer-design-model/build/CMakeFiles/v_1.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uubs/Data/CeleryStalk/observer-design-model/v_1.cc
+iostream
+-
+mutex
+-
+thread
+-
+unistd.h
+-
+
