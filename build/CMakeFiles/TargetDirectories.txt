@@ -1,0 +1,3 @@
+/home/uubs/Data/CeleryStalk-git/CeleryStalk/build/CMakeFiles/rebuild_cache.dir
+/home/uubs/Data/CeleryStalk-git/CeleryStalk/build/CMakeFiles/edit_cache.dir
+/home/uubs/Data/CeleryStalk-git/CeleryStalk/build/CMakeFiles/main.dir
