@@ -49,6 +49,4 @@ epoll模型 : 不需要拷贝
 
 
 
-## 服务器
-ssh root@123.60.33.30
-password: uhost-g1jgpi3q
+
